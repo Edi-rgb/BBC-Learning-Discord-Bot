@@ -58,4 +58,4 @@ async def on_ready():
     client.loop.create_task(send_random_message())
 
 # Rulează botul 
-client.run("MTA1MjUyOTE1MDM5ODgzNjc0Ng.GmJDta.kCZmB2otbuCIRoRperB4aNcG5VHnzKCzEXrqjs")
+client.run("MTA1MjUyOTE1MDM5ODgzNjc0Ng.GwtDts.pGm7lbsFlIWx6tqp1iMH5RyYcKXD1-l2IHQgK0")
